@@ -1,8 +1,12 @@
-<h1 align="left">Hi 👋, I'm Soham Katore</h1>
+<br clear="both">
+
+<h1 align="center">Hi 👋, I'm Soham Katore</h1>
 
 ###
 
-<p align="left">A passionate DevOps Engineer from Pune,Maharashtra,India</p>
+<br clear="both">
+
+<h4 align="center">A passionate DevOps Engineer from Pune,Maharashtra,India</h4>
 
 ###
 
@@ -10,7 +14,15 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">🌱 I’m currently learning DevOps Tools and Technologies & Aws<br><br>💬 Ask me about DevOps<br><br>📫 How to reach me skatore168@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1YFeKT1PXfLVybP8Vh9SdgJjQe-ZKtian/view?usp=drive_link</p>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif"  />
 
 ###
 
@@ -97,8 +109,6 @@
 </div>
 
 ###
-
-
 <!--
 **skkatore/skkatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
