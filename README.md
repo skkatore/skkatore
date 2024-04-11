@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋, I'm Soham Katore</h1>
+<h1 align="left">Hi 👋, I'm Soham Katore</h1>
 
 ###
 
 <br clear="both">
 
-<h4 align="center">A passionate DevOps Engineer from Pune,Maharashtra,India</h4>
+<h2 align="center">A passionate DevOps Engineer from Pune,Maharashtra,India</h2>
 
 ###
 
@@ -20,9 +20,9 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif"  />
+<div align="left">
+  <img height="300" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif"  />
+</div>
 
 ###
 
